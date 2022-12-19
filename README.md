@@ -7,7 +7,7 @@ Hello! This is a repository that contains some of the work I've done. I'll be ad
 
 [Multi-layer Monte Carlo to simulate near-infrared spectroscopy in the brain (MATLAB)](MultiLayerMonteCarlo.m)
 
-[Predicting Surivial on the Titanic using ExtraTrees](/titanic-using-extratrees-my-first-notebook.ipynb)
+[Predicting Surivial on the Titanic using ExtraTrees](https://www.kaggle.com/code/christiandeangelis1/titanic-using-extratrees-my-first-notebook)
 
 
 
