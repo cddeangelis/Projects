@@ -1,6 +1,6 @@
 # Projects
 
-Hello! This is a repository that contains some of the work I've done. I'll be adding more as time goes on! 
+Some old work I did in college
 
 
 [Digit Recognizer with PyTorch](digit-recognizer-with-pytorch.ipynb)
